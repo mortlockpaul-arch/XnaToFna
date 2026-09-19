@@ -9,11 +9,11 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FNA", "lib-projs\FNA\FNA.cs
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FNA.NetStub", "lib-projs\FNA.NetStub\FNA.NetStub.csproj", "{F5328B35-F276-4157-9B69-E06D527C689B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MonoMod.Utils", "lib-projs\MonoMod\MonoMod.Utils\MonoMod.Utils.csproj", "{1839CFE2-3DB0-45A8-B03D-9AA797479A3A}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MonoMod.Utils", "lib-projs\MonoMod\src\MonoMod.Utils\MonoMod.Utils.csproj", "{1839CFE2-3DB0-45A8-B03D-9AA797479A3A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MonoMod.RuntimeDetour", "lib-projs\MonoMod\MonoMod.RuntimeDetour\MonoMod.RuntimeDetour.csproj", "{D0C584C0-81D7-486E-B70E-D7F9256E0909}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MonoMod.RuntimeDetour", "lib-projs\MonoMod\src\MonoMod.RuntimeDetour\MonoMod.RuntimeDetour.csproj", "{D0C584C0-81D7-486E-B70E-D7F9256E0909}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MonoMod", "lib-projs\MonoMod\MonoMod\MonoMod.csproj", "{8A17C958-5C33-4035-AF76-F94A3AA2DC4F}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MonoMod.Core", "lib-projs\MonoMod\src\MonoMod.Core\MonoMod.Core.csproj", "{8A17C958-5C33-4035-AF76-F94A3AA2DC4F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
